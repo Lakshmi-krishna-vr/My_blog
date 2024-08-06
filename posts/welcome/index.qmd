@@ -1,0 +1,13 @@
+---
+title: “Engineering Dreams into Reality”
+author: "myself"
+date: "2024-08-03"
+categories: [Memories]
+---
+
+Follow my adventures as an engineering student turning theoretical concepts into practical applications. Witness the transformation of dreams into reality through hard work, dedication, and a passion for problem-solving.
+
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
