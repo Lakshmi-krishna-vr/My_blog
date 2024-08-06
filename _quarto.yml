@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "My_Memories"
   navbar:
@@ -8,8 +8,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/lakshmi-krishna-vr
-      - icon: twitter
-        href: https://twitter.com
+      - icon: github
+        href: https://github.com/Lakshmi-krishna-vr
 format:
   html:
     theme: solar
